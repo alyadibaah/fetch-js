@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@300;400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background-color: rgb(68, 140, 170);
+}
+
+button {
+    margin-top: 50px;
+}
+
+.container {
+    background-color: rgb(63, 126, 149);
+    width: 900vh;
+    height: 200px;
+    border-radius: 5px;
+    font: #0200;
+
+}
+
+.container-result {
+    margin-top: 40px;
+    text-align: center;
+    align-items: baseline;
+}
+
+#search {
+    margin-top: 0;
+}
